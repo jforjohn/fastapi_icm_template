@@ -1,0 +1,4 @@
+fastapi==0.112.1
+uvicorn==0.30.6
+prometheus_fastapi_instrumentator==7.0.0
+click==8.1.7
